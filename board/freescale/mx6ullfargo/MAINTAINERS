@@ -1,0 +1,7 @@
+MX6ULLFARGO BOARD
+M:	vovcher amarel>
+S:	Maintained
+F:	board/freescale/mx6ullfargo/
+F:	include/configs/mx6ullfargo.h
+F:	configs/mx6ull_9x9_fargo_defconfig
+F:	configs/mx6ull_9x9_fargo_plugin_defconfig
