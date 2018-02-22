@@ -6,7 +6,7 @@ How to use U-Boot on Freescale MX6ULL 14x14 EVK
 $ sudo apt-get install device-tree-compiler
 
 - Build U-Boot for MX6ULL 14x14 EVK:
-
+i want patch file
 $ make mrproper
 $ make mx6ull_14x14_evk_defconfig
 $ make
